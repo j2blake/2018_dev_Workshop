@@ -58,4 +58,7 @@ If you have any issues with the above, please contact us ASAP using the [communi
 - [Installation  on Mac](https://docs.google.com/document/d/10s2WjPp0u7jwrx8qVqG1qn8tM_EgHwIlNkciolrMNT0/edit?usp=sharing) or [in this repo](installation/Installation%20Notes_%20Mac%20using%20Homebrew.pdf)
 - [Installation on Windows](https://docs.google.com/document/d/1hDUJq0kxRGRkMLDUMu_k4Q0Yhmn0r5Qq79GnKW432R0/edit?usp=sharing) or [in this repo](installation/Installation%20Notes_%20The%20old%20fashioned%20way.pdf)
 
+### Workshop code
+- Please checkout [Vitro](https://github.com/j2blake/2018_dev_Vitro) and [VIVO](https://github.com/j2blake/2018_dev_VIVO).  For VIVO, checkout the branch "workshopBranch" as this will be the code we will walk through and debug together . The "functioningBranch" branch has the working version of the code that does not require any fixes and you can use that as a reference.
+
 #### Copied liberally from the README for https://github.com/spark4lib/code4lib2018
