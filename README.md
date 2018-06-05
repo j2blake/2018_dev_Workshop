@@ -51,6 +51,10 @@ If you have any issues with the above, please contact us ASAP using the [communi
 
 ### Running Virtual Machine and Vagrant
 
+- [Virtual machine and Vagrant installation instructions] (installation/README.pdf)
+- [Virtual machine/Vagrant on Mac OS] (https://docs.google.com/document/d/1JeU_PnLOPIFbtgLPJdE8uaZ_BKoKwE3Y7an2d89OkvU/edit?usp=sharing) or in this repo (installation/Vagrant on Mac OS.pdf)
+- [Installation of components on Windows] (https://docs.google.com/document/d/1hDUJq0kxRGRkMLDUMu_k4Q0Yhmn0r5Qq79GnKW432R0/edit?usp=sharing) or in this repo (installation/Installation Notes_ The old fashioned way/pdf)
+
 ### Backup Option
 
 #### Copied liberally from the README for https://github.com/spark4lib/code4lib2018
