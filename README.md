@@ -55,7 +55,7 @@ If you have any issues with the above, please contact us ASAP using the [communi
 - [Virtual machine/Vagrant on Mac OS](https://docs.google.com/document/d/1JeU_PnLOPIFbtgLPJdE8uaZ_BKoKwE3Y7an2d89OkvU/edit?usp=sharing) or [in this repo](installation/Vagrant on Mac OS.pdf)
 
 ### Backup Option (full environment without a virtual machine or vagrant)
-- [Installation  on Mac] (https://docs.google.com/document/d/10s2WjPp0u7jwrx8qVqG1qn8tM_EgHwIlNkciolrMNT0/edit?usp=sharing) or [in this repo](installation/Installation Notes_ Mac using Homebrew.pdf)
+- [Installation  on Mac] (https://docs.google.com/document/d/10s2WjPp0u7jwrx8qVqG1qn8tM_EgHwIlNkciolrMNT0/edit?usp=sharing) or [in this repo](installation/Installation%20Notes_%20Mac%20using%20Homebrew.pdf)
 - [Installation on Windows] (https://docs.google.com/document/d/1hDUJq0kxRGRkMLDUMu_k4Q0Yhmn0r5Qq79GnKW432R0/edit?usp=sharing) or [in this repo](installation/Installation Notes_ The old fashioned way/pdf)
 
 #### Copied liberally from the README for https://github.com/spark4lib/code4lib2018
