@@ -5,7 +5,7 @@ Welcome to the open repository, documentation and materials for the Learning VIV
 * When: Wednesday, June 6th, 2018, 8:30 AM - 11:30 AM
 * Where: [**Meeting Room C**](http://vivoconference.org/schedule/#session-1)
 * Workshop Materials: [github.com/spark4lib/code4lib2018](https://github.com/j2blake/2018_dev_Workshop)
-* Workshop Code: [Vitro] (https://github.com/j2blake/2018_dev_Vitro) and [VIVO using branch "workshopBranch"] (https://github.com/j2blake/2018_dev_VIVO 
+* Workshop Code: [Vitro](https://github.com/j2blake/2018_dev_Vitro) and [VIVO using branch "workshopBranch"](https://github.com/j2blake/2018_dev_VIVO) 
 * Workshop Slides: [in this Repository](slides/)
 
 ## About the Workshop
@@ -25,7 +25,7 @@ Time               | Topic                                                      
 **9:45-10:05 AM**  | Developing: Debugging VIVO in Eclipse (20 minutes)             | [Huda](mailto:hjk54@cornell.edu)
 **10:05-10:15 AM** | Break (10 minutes)                                             | n/a
 **10:15-10:25 AM** | Deep dive: Unit tests in VIVO (15 minutes)                     | [Jim](mailto:jeb228@cornell.edu)
-**10:25-10:35 AM** | Developing: The Developer Panel (20 minutes)                   | [Jim](mailto:jeb228@cornell.edu)(mailto:audrey@dp.la)
+**10:25-10:35 AM** | Developing: The Developer Panel (20 minutes)                   | [Jim](mailto:jeb228@cornell.edu)
 **10:35-10:45 AM** | Deep dive: Search Index Configuration (20 minutes)             | [Jim](mailto:jeb228@cornell.edu)
 **10:45-11:05 AM** | Developing: Search Index Configuration                         | [Huda](mailto:hjk54@cornell.edu)
 **11:05-11:30 AM** | Developing: Pull Request process and interaction               | [Andrew](mailto:awoods@duraspace.org)
