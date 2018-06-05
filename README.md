@@ -5,6 +5,7 @@ Welcome to the open repository, documentation and materials for the Learning VIV
 * When: Wednesday, June 6th, 2018, 8:30 AM - 11:30 AM
 * Where: [**Meeting Room C**](http://vivoconference.org/schedule/#session-1)
 * Workshop Materials: [github.com/spark4lib/code4lib2018](https://github.com/j2blake/2018_dev_Workshop)
+* Workshop Code: [Vitro] (https://github.com/j2blake/2018_dev_Vitro) and [VIVO using branch "workshopBranch"] (https://github.com/j2blake/2018_dev_VIVO 
 * Workshop Slides: [in this Repository](slides/)
 
 ## About the Workshop
