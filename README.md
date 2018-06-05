@@ -52,11 +52,11 @@ If you have any issues with the above, please contact us ASAP using the [communi
 ### Running Virtual Machine and Vagrant
 
 - [Virtual machine and Vagrant installation instructions](installation/README.pdf)
-- [Virtual machine/Vagrant on Mac OS](https://docs.google.com/document/d/1JeU_PnLOPIFbtgLPJdE8uaZ_BKoKwE3Y7an2d89OkvU/edit?usp=sharing) or [in this repo](installation/Vagrant%20on%20Mac%20OS.pdf)
+- [Virtual machine/Vagrant on Mac OS - Google doc](https://docs.google.com/document/d/1JeU_PnLOPIFbtgLPJdE8uaZ_BKoKwE3Y7an2d89OkvU/edit?usp=sharing) or [in this repo](installation/Vagrant%20on%20Mac%20OS.pdf)
 
 ### Backup Option (full environment without a virtual machine or vagrant)
-- [Installation  on Mac](https://docs.google.com/document/d/10s2WjPp0u7jwrx8qVqG1qn8tM_EgHwIlNkciolrMNT0/edit?usp=sharing) or [in this repo](installation/Installation%20Notes_%20Mac%20using%20Homebrew.pdf)
-- [Installation on Windows](https://docs.google.com/document/d/1hDUJq0kxRGRkMLDUMu_k4Q0Yhmn0r5Qq79GnKW432R0/edit?usp=sharing) or [in this repo](installation/Installation%20Notes_%20The%20old%20fashioned%20way.pdf)
+- [Installation  on Mac - Google doc](https://docs.google.com/document/d/10s2WjPp0u7jwrx8qVqG1qn8tM_EgHwIlNkciolrMNT0/edit?usp=sharing) or [in this repo](installation/Installation%20Notes_%20Mac%20using%20Homebrew.pdf)
+- [Installation on Windows - Google doc](https://docs.google.com/document/d/1hDUJq0kxRGRkMLDUMu_k4Q0Yhmn0r5Qq79GnKW432R0/edit?usp=sharing) or [in this repo](installation/Installation%20Notes_%20The%20old%20fashioned%20way.pdf)
 
 ### Workshop code
 - We will be working with our copies of the Vitro and VIVO code using [Vitro](https://github.com/j2blake/2018_dev_Vitro) and [VIVO](https://github.com/j2blake/2018_dev_VIVO) respectively.  For VIVO, checkout the branch "workshopBranch" as this will be the code we will walk through and debug together . The "functioningBranch" branch has the working version of the code that does not require any fixes and you can use that as a reference.
