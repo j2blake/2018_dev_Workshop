@@ -25,10 +25,10 @@ Time               | Topic                                                      
 **9:45-10:05 AM**  | Developing: Debugging VIVO in Eclipse (20 minutes)             | [Huda](mailto:hjk54@cornell.edu)
 **10:05-10:15 AM** | Break (10 minutes)                                             | n/a
 **10:15-10:25 AM** | Deep dive: Unit tests in VIVO (15 minutes)                     | [Jim](mailto:jeb228@cornell.edu)
-**10:25-10:35 AM** | Developing: The Developer Panel (20 minutes)                   | [Jim](mailto:jeb228@cornell.edu)
-**10:35-10:45 AM** | Deep dive: Search Index Configuration (20 minutes)             | [Jim](mailto:jeb228@cornell.edu)
-**10:45-11:05 AM** | Developing: Search Index Configuration                         | [Huda](mailto:hjk54@cornell.edu)
-**11:05-11:30 AM** | Developing: Pull Request process and interaction               | [Andrew](mailto:awoods@duraspace.org)
+**10:25-10:35 AM** | Developing: The Developer Panel (10 minutes)                   | [Jim](mailto:jeb228@cornell.edu)
+**10:35-10:45 AM** | Deep dive: Search Index Configuration (10 minutes)             | [Jim](mailto:jeb228@cornell.edu)
+**10:45-11:05 AM** | Developing: Search Index Configuration  (20 minutes)           | [Huda](mailto:hjk54@cornell.edu)
+**11:05-11:30 AM** | Developing: Pull Request process and interaction (25 minutes)  | [Andrew](mailto:awoods@duraspace.org)
 
 
 ## Contact Before, During, After the Workshop
