@@ -7,6 +7,7 @@ Welcome to the open repository, documentation and materials for the Learning VIV
 * Workshop Materials: [github.com/j2blake/2018_dev_Workshop](https://github.com/j2blake/2018_dev_Workshop)
 * Workshop Code: [Vitro](https://github.com/j2blake/2018_dev_Vitro) and [VIVO](https://github.com/j2blake/2018_dev_VIVO) 
 * Workshop Slides: [in this Repository](slides/)
+* Join VIVO Slack: [bit.ly/vivo-slack](https://bit.ly/vivo-slack) #dev-workshop
 
 ## About the Workshop
 
