@@ -28,7 +28,7 @@ Time               | Topic                                                      
 **10:25-10:35 AM** | Developing: The Developer Panel (10 minutes)                   | [Jim](mailto:jeb228@cornell.edu)
 **10:35-10:45 AM** | Deep dive: Search Index Configuration (10 minutes)             | [Jim](mailto:jeb228@cornell.edu)
 **10:45-11:05 AM** | Developing: Search Index Configuration  (20 minutes)           | [Huda](mailto:hjk54@cornell.edu)
-**11:05-11:30 AM** | Developing: Pull Request process and interaction (25 minutes)  | [Andrew](mailto:awoods@duraspace.org)
+**11:05-11:30 AM** | Developing: [Pull Request process](https://docs.google.com/presentation/d/16K3dpMN8tSIWsSq_FW6H8nbGsLlizzswSF_fLME0a4I/edit?usp=sharing) and interaction (25 minutes)  | [Andrew](mailto:awoods@duraspace.org)
 
 
 ## Contact Before, During, After the Workshop
