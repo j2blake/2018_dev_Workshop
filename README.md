@@ -41,6 +41,9 @@ During the workshop, we will indicate the best ways to get help or communicate a
 
 To keep this workshop a safe and inclusive space, we ask that you review and follow the [Duraspace Code of Conduct](http://www.duraspace.org/about/policies/code-of-conduct/) and [the Recurse Center Social Rules (aka Hacker School Rules)](https://www.recurse.com/manual#sub-sec-social-rules).
 
+## Joining VIVO Slack
+To join VIVO slack, [click here](http://bit.ly/vivo-slack) and join the dev-workshop channel.
+
 ## Participant Requirements
 
 We request that all participants:
