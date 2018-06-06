@@ -19,7 +19,7 @@ We ask that all participants come to the workshop ready to dive in by reviewing 
 Time               | Topic                                                          | Leader(s)
 ------------------ | -------------------------------------------------------------- | ------------------------------------------
 **8:30-8:40 AM**   | Overview and Introductions (10 minutes)                        | Whole Group
-**8:40-9:10 AM**   | Set up your development environment (20 minutes)               | [Don](mailto:elsborg@colorado.edu)
+**8:40-9:10 AM**   | Set up your development environment (30 minutes)               | [Don](mailto:elsborg@colorado.edu)
 **9:10-9:20 AM**   | VIVO Architecture (10 minutes)                                 | [Jim](mailto:jeb228@cornell.edu)
 **9:20-9:45 AM**   | Deep dive: VIVO starts up (25 minutes)                         | [Jim](mailto:jeb228@cornell.edu)
 **9:45-10:05 AM**  | Developing: Debugging VIVO in Eclipse (20 minutes)             | [Huda](mailto:hjk54@cornell.edu)
